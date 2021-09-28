@@ -1,0 +1,25 @@
+{
+  "name": "@jenifersingh/first-cli",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "trans": "bin/index.js"
+  },
+  "author": "Jenifer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jenifersingh/Testeee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jenifersingh/Testeee/issues"
+  },
+  "homepage": "https://github.com/Jenifersingh/Testeee#readme",
+  "description": ""
+}
